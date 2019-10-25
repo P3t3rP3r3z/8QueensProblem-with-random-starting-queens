@@ -1,0 +1,12 @@
+*.iml
+.DS_Store
+.classpath
+.externalNativeBuild/
+.gradle/
+.idea/
+.project
+.settings/
+.vscode/
+build/
+captures/
+local.properties
